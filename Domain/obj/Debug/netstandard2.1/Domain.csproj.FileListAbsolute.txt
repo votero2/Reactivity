@@ -1,0 +1,9 @@
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Domain\obj\Debug\netstandard2.1\Domain.pdb

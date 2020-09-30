@@ -1,0 +1,14 @@
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Application\bin\Debug\netstandard2.1\Application.deps.json
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Application\bin\Debug\netstandard2.1\Application.dll
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Application\bin\Debug\netstandard2.1\Application.pdb
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Application\bin\Debug\netstandard2.1\Domain.dll
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Application\bin\Debug\netstandard2.1\Persistence.dll
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Application\bin\Debug\netstandard2.1\Domain.pdb
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Application\bin\Debug\netstandard2.1\Persistence.pdb
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Application\obj\Debug\netstandard2.1\Application.dll
+C:\repoVlad\C#Asp.Net-ReactJs\Course Assets\SourceCode\Section2\Reactivity\Application\obj\Debug\netstandard2.1\Application.pdb
