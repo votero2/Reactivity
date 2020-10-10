@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "O6I10n7mKtmb9RnuA5Qu0z0qBWj7ssVuiP8SV3oANlFibrBpNp0dJxRYXsNrlTN3aJgjXzlOxNrFQTFQlM7tKA==",
+  "dgSpecHash": "Li7R2i/zkelyU/MqcPSbkbPamn0ico/K+F6BSeXIU/zht0ku2hDRQLcskrmdEIyOvAGpkQoXfZuWsT6pT6Hr7Q==",
   "success": true,
   "projectFilePath": "C:\\repoVlad\\C#Asp.Net-ReactJs\\Course Assets\\SourceCode\\Section2\\Reactivity\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\voter\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\voter\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\voter\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\voter\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\voter\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

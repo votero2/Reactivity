@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Domain
+﻿namespace Domain
 {
     public class Value
     {
@@ -8,3 +6,8 @@ namespace Domain
         public string Name { get; set; }
     }
 }
+
+
+
+
+//primary model .....

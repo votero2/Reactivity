@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "OE84Fsy9DjbjVTxAb2+SbvxCrZZHHso0kqO5wb1jH2uUu7kb5kGv0kJpdKafHRFCb+yotJkkocx2Ewqm61I7Kw==",
+  "dgSpecHash": "qUK+OGa5M3NT2mRq22tnVsA8xWuuPx2ULTtvqZMPQjePnAIOlUUtoo7NOh1lKCi0AumhvLZB18mA2morZQCsrg==",
   "success": true,
   "projectFilePath": "C:\\repoVlad\\C#Asp.Net-ReactJs\\Course Assets\\SourceCode\\Section2\\Reactivity\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\voter\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\voter\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\voter\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\voter\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\voter\\.nuget\\packages\\microsoft.data.sqlite.core\\3.1.6\\microsoft.data.sqlite.core.3.1.6.nupkg.sha512",
